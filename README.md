@@ -14,46 +14,19 @@
 <a href="https://discord.com/users/midhun_n">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
   </a>
-<a href="https://github.com/Midhun-Nk">
+<a href="https://github.com/ArpanKrSahoo">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
-<a href="https://instagram.com/mike.devlogs">
+<!-- <a href="https://instagram.com/mike.devlogs">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-  </a>
-<a href="https://linkedin.com/in/midhun-nk">
+  </a> -->
+<a href="https://www.linkedin.com/in/arpan-kumar-sahoo-668145322?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
-<a href="https://x.com/mike_devlogs">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
-  </a>
-<a href="https://youtube.com/EduMikeStudio">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
 
 <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 <br clear="all" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpankrsahoo&label=Profile%20views&color=0e75b6&style=flat" alt="arpankrsahoo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpankrsahoo" alt="arpankrsahoo" /></a> </p>
-
-- 🔭I’m currently working on **Machine Learning and LLMs**
-
-- 🌱 I’m currently learning **TensorFlow**
-
-- 👯 I’m looking to collaborate on **LLms**
-
-- 💬 Ask me about **react , Next.js , TensorFlow**
-
-- 📫 How to reach me **arpansahoo413@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/arpan-kumar-sahoo-668145322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/arpan-kumar-sahoo-668145322" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/arpankrsahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/arpankrsahoo" height="30" width="40" /></a>
-</p>
 
 🛠️ Skills
 <p align="center">
@@ -97,4 +70,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpankrsahoo&show_icons=true&locale=en" alt="arpankrsahoo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpankrsahoo&" alt="arpankrsahoo" /></p>
