@@ -62,12 +62,12 @@
 📊 GitHub Stats
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="arpankrsahoo" />
+  <img src="https://streak-stats.demolab.com?user=arpankrsahoo&theme=dark&hide_border=true" alt="arpankrsahoo" />
 </div>
 ---
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpankrsahoo&show_icons=true&locale=en&layout=compact" alt="arpankrsahoo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpankrsahoo&theme=dark&show_icons=true&locale=en&layout=compact" alt="arpankrsahoo" /></p>
 </div>
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpankrsahoo&show_icons=true&locale=en" alt="arpankrsahoo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpankrsahoo&theme=dark&show_icons=true&locale=en" alt="arpankrsahoo" /></p>
 </div>
