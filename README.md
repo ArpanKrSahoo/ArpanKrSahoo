@@ -57,7 +57,7 @@
 </table>
 </p>
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpankrsahoo&theme=github_dark)
 
 ## 📊 GitHub Stats
 
