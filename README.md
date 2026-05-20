@@ -59,15 +59,16 @@
 
 
 
-📊 GitHub Stats
+## 📊 GitHub Stats
+
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=arpankrsahoo&theme=dark&hide_border=true" alt="arpankrsahoo" />
-</div>
----
-<div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpankrsahoo&theme=dark&show_icons=true&locale=en&layout=compact" alt="arpankrsahoo" /></p>
-</div>
-<div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpankrsahoo&theme=dark&show_icons=true&locale=en" alt="arpankrsahoo" /></p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpankrsahoo&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=arpankrsahoo&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpankrsahoo&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
 </div>
