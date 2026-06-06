@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&height=40&lines=building+things+that+feel+alive...;React+%7C+Django+%7C+Python+%7C+C%2B%2B;ai_engineer.exe+--loading+%5B%23%23%23%23%23%23%23%23..%5D+87%25;never+stop+shipping+%E2%80%94+git+push+origin+main" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&height=40&lines=building+things+that+feel+alive...;React+%7C+Node.Js+%7C+Python+%7C+C%2B%2B;ai_engineer.exe+--loading+%5B%23%23%23%23%23%23%23%23..%5D+87%25;never+stop+shipping+%E2%80%94+git+push+origin+main" />
 
 <br/>
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
@@ -76,4 +76,14 @@
 
 <img src="https://streak-stats.demolab.com?user=arpankrsahoo&theme=github-dark&hide_border=true&cache_seconds=86400" height="170" alt="arpankrsahoo"/>
 
+</div>
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" />
+
+<font color="#a78bfa"><i>"Build tech that feels alive — smart, helpful, and intuitive."</i></font> &nbsp;✦
+<br/>
+<br/>
+[![](https://visitcount.itsvg.in/api?id=Iman-Datta&icon=10&color=7)](https://visitcount.itsvg.in)
 </div>
