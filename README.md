@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3> -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=260&section=header&text=Iman%20Datta&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=%3E_%20Full-Stack%20Developer%20%7C%20AI%20Engineer%20in%20Progress%20%7C%20DSA%20Enthusiast&descAlignY=62&descSize=14&descColor=c4b5fd&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=260&section=header&text=Arpan%20Kumar%20Sahoo&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=%3E_%20Full-Stack%20Developer%20%7C%20AI%20Engineer%20in%20Progress%20%7C%20DSA%20Enthusiast&descAlignY=62&descSize=14&descColor=c4b5fd&animation=fadeIn" />
 
 <br/>
 
