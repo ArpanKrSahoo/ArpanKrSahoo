@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Arpan Kumar Sahoo</h1>
-<h3 align="center">A passionate developer from India</h3>
+<!-- <h1 align="center">Hi 👋, I'm Arpan Kumar Sahoo</h1>
+<h3 align="center">A passionate developer from India</h3> -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=260&section=header&text=Iman%20Datta&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=%3E_%20Full-Stack%20Developer%20%7C%20AI%20Engineer%20in%20Progress%20%7C%20DSA%20Enthusiast&descAlignY=62&descSize=14&descColor=c4b5fd&animation=fadeIn" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&height=40&lines=building+things+that+feel+alive...;React+%7C+Django+%7C+Python+%7C+C%2B%2B;ai_engineer.exe+--loading+%5B%23%23%23%23%23%23%23%23..%5D+87%25;never+stop+shipping+%E2%80%94+git+push+origin+main" />
+
+<br/>
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
